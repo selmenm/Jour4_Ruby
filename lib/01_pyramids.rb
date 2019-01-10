@@ -1,5 +1,5 @@
 def ask_nb
-  puts "Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu et donnes moi un nombre paire s'il te plait ?"
+  puts "Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu et donnes moi un nombre impair s'il te plait ?"
   print "> "
   number=gets.chomp.to_i
   return number
